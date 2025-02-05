@@ -21,8 +21,7 @@ namespace PARKING
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new GUI_LOGIN());
 
-            // catch lỗi load form thì chỉ quét được 1 số lần là form báo lỗi
-            // thêm hàm tính số xe trong bãi và loại xe trong bãi
+
 
 
         }
