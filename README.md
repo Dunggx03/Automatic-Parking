@@ -1,4 +1,5 @@
-#1 Function
+#1Function
+
 - Read and identify RFID cards when swipe.
 - Open/ Close servo when card valid or not.
 - Display Valid card information (ID, User, Log, Money).
@@ -6,6 +7,11 @@
 - Statistics on the number of vehicles and vehicle types in the parking lot, automatic deduction.
 
 #2 Circuit, Model
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/e565115e-5220-4901-94c5-6a067ba32dbb)
 ![image](https://github.com/user-attachments/assets/7077581d-2b75-40a0-9971-eac4e5a1ba84)
 ![image](https://github.com/user-attachments/assets/4e967fc6-9e7f-48b2-972c-4f930dd41eea)
@@ -13,6 +19,11 @@
 
 
 #3 Data Sequence
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/24153421-d49b-4507-b941-684607b22857)
 ![image](https://github.com/user-attachments/assets/5924bd5c-2124-4360-87d4-eaa81ce34e14)
 
