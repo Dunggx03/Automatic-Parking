@@ -33,4 +33,4 @@ Make sure you have Visual Studio with .NET desktop development
 - Execute PARKING.sql file.
 - Change your DB Source in DBConnect file at DAL.
 - Run PARKING.sln file.
-- regsister: admin/123
+- regsister: admin / 123
